@@ -2,6 +2,6 @@
 ## 🤓 Aquí haré una pequeña descripción de quién soy
 ![Hola](homero.gif)
 ## Quiero aprender sobre inteligencia artificial y sus aplicaciones
-![h](hack.jpeg)
+![h](hack.gif)
 ## Quiero ser data scientist
 
