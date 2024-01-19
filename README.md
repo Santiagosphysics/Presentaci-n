@@ -4,4 +4,6 @@
 
 ![Hola](homero.gif)
 
-## :octocat: Git and GitHub
+## Quiero aprender sobre inteligencia artificial y sus aplicaciones
+
+![hackerman](images.jpeg)
