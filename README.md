@@ -1,7 +1,7 @@
-# :wave: The Basics of GitHub 
+# :wave: Hola, soy Santiago
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Aquí haré una pequeña descripción de quién soy
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+![Hola](homero.gif)
 
 ## :octocat: Git and GitHub
