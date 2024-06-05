@@ -5,7 +5,7 @@
 ![hack](hack.gif)
 ## Quiero ser data scientist
 ![study](hom_study.gif)
-## Actualmente me dedico por completo a mi carrera académica
+## Actualmente me dedico por completo a estudiar
 ## Me gusta salir en bicicleta
 ![bob](spongebob-rainbow-1.gif)
 
